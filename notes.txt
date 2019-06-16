@@ -1,2 +1,7 @@
-test git is sync'd
+test git is sync'd [done]
+
+How to add/update notes.txt to the git
+git add notes.txt
+git commit -m "testing the git was correctly cloned by adding notes.txt"
+git push -u origin master
 
